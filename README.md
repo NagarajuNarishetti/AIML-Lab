@@ -6,3 +6,6 @@
 5. [Lab 05](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-05.ipynb)
 6. [Lab 06](https://github.com/kirankumareranki/AIML-2023/blob/main/Lab06-KNN.ipynb)
 7. [Lab 07](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-07.ipynb)
+8. [Lab 08](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-08.ipynb)
+9. [Lab 09](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-09.ipynb)
+10. [Lab 10](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-10.ipynb)
