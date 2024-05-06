@@ -9,4 +9,4 @@
 8. [Lab 08](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-08.ipynb)
 9. [Lab 09](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-09.ipynb)
 10. [Lab 10](https://github.com/NagarajuNarishetti/AIML-Lab/blob/main/AIML%20LAB-10.ipynb)
- [PROJECT](https://github.com/NagarajuNarishetti/AIML_Project)
+11. [PROJECT](https://github.com/NagarajuNarishetti/AIML_Project)
